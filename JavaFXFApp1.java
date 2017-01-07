@@ -27,7 +27,7 @@ public class JavaFXFApp1 extends Application {
             
             @Override
             public void handle(ActionEvent event) {
-                System.out.println("Hello World and you! Some more change");
+                System.out.println("Hello World and you! Some more change. And even more");
             }
         });
         
